@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: cadetblue;
+  padding: 6px;
+}
+
+nav {
+  padding: 6px;
 }
 
 .App-logo {
